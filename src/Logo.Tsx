@@ -1,4 +1,3 @@
-import React from "react";
 import { SVGAttributes } from "react";
 
 interface LogoProps extends SVGAttributes<HTMLOrSVGElement> {}
